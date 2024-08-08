@@ -2,8 +2,6 @@
 
 # M Steak
 
-**Author**: [Your Name]
-
 ## Overview
 M Steak is an innovative Flutter-based web application designed to revolutionize the cooking experience. It operates as an AI-powered chatbot that generates personalized recipes using Gemini AI and incorporates voice interaction capabilities. Whether you're a cooking enthusiast, home cook, food blogger, or culinary student, M Steak simplifies recipe discovery and enhances creativity in the kitchen.
 
