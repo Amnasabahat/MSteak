@@ -2,25 +2,31 @@
 
 -------
 
-# 🚀 **Features**
+### **Login Page**
+Secure and easy-to-use authentication system that allows users to log in and personalize their experience.
 
-### **Login Page:** Secure and easy-to-use authentication system that allows users to log in and personalize their experience.
+### **Interactive Chatbot**
+Engage with a chatbot to generate recipes and get answers to your culinary questions.
 
-### **Interactive Chatbot:** Engage with a chatbot to generate recipes and get answers to your culinary questions.
+### **Gemini API Integration**
+Utilizes the Gemini API to dynamically generate recipes based on user input and provide intelligent responses.
 
-### **Gemini API Integration:** Utilizes the Gemini API to dynamically generate recipes based on user input and provide intelligent responses.
-
-### **Modern UI:** Built with Flutter for a responsive and visually appealing interface.
+### **Modern UI**
+Built with Flutter for a responsive and visually appealing interface.
 
 ---
 
 # 📦 **Tech Stack**
 
-## **Frontend:** Flutter (Dart)
+## Frontend
+Flutter (Dart)
 
-## **API:** Gemini API
+## API
+Gemini API
 
-## **Version Control:** GitHub
+## Version Control
+GitHub
+
 
 
 
