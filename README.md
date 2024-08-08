@@ -1,4 +1,4 @@
-#**MSteak** 
+# **MSteak** 
 MSteak is a web application developed with Flutter and Dart, designed to offer users a seamless experience in generating recipes and interacting with a sophisticated chatbot. Leveraging the Gemini API and user-friendly interface.
 
 ----------
