@@ -54,5 +54,4 @@ Follow these steps to get your development environment up and running:
 # 🤝Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the project.
 
-# 📫Contact
-For any inquiries or feedback, please contact  at amnasabahat414@gmail.com
+
