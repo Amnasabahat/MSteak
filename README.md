@@ -23,7 +23,8 @@
 ## **Version Control:** GitHub
 
 
-# 3🌟Getting Started
+
+# 🌟Getting Started
 Follow these steps to get your development environment up and running:
 
 ### Clone the Repository:
